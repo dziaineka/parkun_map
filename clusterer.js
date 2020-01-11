@@ -111,7 +111,7 @@ ymaps.ready(function() {
 	 * Можно менять опции кластеризатора после создания.
 	 */
 	clusterer.options.set({
-		gridSize: 80,
+		gridSize: 300,
 		clusterDisableClickZoom: true
 	});
 
